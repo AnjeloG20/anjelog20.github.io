@@ -2,7 +2,7 @@
 layout: page
 title: Nike SB
 description: Academic Brand Concept
-img: assets/img/nikesb1_banner.jpeg
+img: assets/img/nikesb2_banner.jpeg
 importance: 3
 category: work
 ---
