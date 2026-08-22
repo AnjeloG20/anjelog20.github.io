@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Reynald Anjelo Gutierrez, a digital marketer based in Melbourne with a background in Fashion Marketing (Branding and Communications).
+Hi, I’m Anjelo Gutierrez, a digital marketer based in Melbourne with a background in Fashion Marketing (Branding and Communications).
 
 I’m interested in how brands use strategy, visual communication, content, and social media to connect with people. My experience includes digital branding and content planning, including contributing to ZILIO Apparel’s Instagram rebranding through visual concepts, content layouts, mood boards, and brand strategy.
 
