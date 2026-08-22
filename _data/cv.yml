@@ -37,19 +37,6 @@ cv:
           - Executed marketing campaigns across universities and public venues to increase brand awareness and student enrolment.
           - Collaborated with university students on branding, marketing strategy, and product development initiatives.
 
-    Volunteer:
-      - company: Filipino Community Council of Victoria Inc.
-        position: Community Engagement Volunteer
-        location: Melbourne, Australia
-        start_date: 2024-09-01
-        end_date: 2025-05-01
-        summary: Community Engagement & Event Coordination
-        highlights:
-          - Assisted with the planning and delivery of community events for international students, senior citizens, and local community members.
-          - Supported food distribution initiatives by coordinating the collection and distribution of foodbank supplies to elderly residents.
-          - Worked collaboratively with volunteer teams to organise logistics, participant engagement, and event operations.
-          - Built positive relationships with community members while providing friendly and responsive support.
-
     Education:
       - institution: Australian College of the Arts (Collarts)
         location: Melbourne, Australia
@@ -70,6 +57,19 @@ cv:
         highlights:
           - Academic Excellence Awardee
           - Four-time Dean's List Recipient
+
+    Volunteer:
+      - company: Filipino Community Council of Victoria Inc.
+        position: Community Engagement Volunteer
+        location: Melbourne, Australia
+        start_date: 2024-09-01
+        end_date: 2025-05-01
+        summary: Community Engagement & Event Coordination
+        highlights:
+          - Assisted with the planning and delivery of community events for international students, senior citizens, and local community members.
+          - Supported food distribution initiatives by coordinating the collection and distribution of foodbank supplies to elderly residents.
+          - Worked collaboratively with volunteer teams to organise logistics, participant engagement, and event operations.
+          - Built positive relationships with community members while providing friendly and responsive support.
 
     Skills:
       - name: Marketing
