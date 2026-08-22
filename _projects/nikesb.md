@@ -4,7 +4,7 @@ title: Nike SB - Academic Brand Concept
 description: Academic brand rebranding concept exploring campaign visuals and social media content for Nike SB.
 img: assets/img/portfolio/nikesb1.jpeg
 importance: 3
-category: Academic Projects
+category: work
 ---
 
 ## Overview
