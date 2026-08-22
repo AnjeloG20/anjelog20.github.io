@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Marketing Graduate | Digital Marketing | Fashion Marketing | Branding | Social Media
+subtitle: Digital Marketer | Fashion Marketing | Branding | Social Media
 
 profile:
   align: right
@@ -25,10 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Reynald Anjelo Gutierrez, a marketing graduate based in Melbourne with a background in digital marketing, fashion marketing, branding, and social media.
+Hi, I’m Reynald Anjelo Gutierrez, a digital marketer based in Melbourne with a background in Fashion Marketing (Branding and Communications).
 
-I recently completed my Bachelor of Fashion Marketing (Branding and Communications) at the Australian College of the Arts (Collarts). Through my studies and my internship with ZILIO Apparel, I gained experience in brand strategy, social media, content planning, visual communication, and campaign development.
+I’m interested in how brands use strategy, visual communication, content, and social media to connect with people. My experience includes digital branding and content planning, including contributing to ZILIO Apparel’s Instagram rebranding through visual concepts, content layouts, mood boards, and brand strategy.
 
-I enjoy developing creative ideas that connect brands, people, and visual storytelling, with a particular interest in fashion and digital marketing.
-
-I’m currently seeking opportunities in digital marketing, fashion marketing, branding, social media, and marketing communications.
+My portfolio brings together work across digital marketing, fashion marketing, branding, campaign development, and visual communication.
