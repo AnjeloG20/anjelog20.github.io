@@ -132,17 +132,6 @@
           </div>
         {% endif %}
 
-        {% if cv.sections.Volunteer %}
-          <a class="anchor" id="volunteer"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Volunteer Experience</h3>
-            <div>
-              {% assign entries = cv.sections.Volunteer | al_cv_sort_by_date %}
-              {% include cv/experience.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
         {% comment %} Now render all other sections except Experience and Volunteer {% endcomment %}
         {% for section_pair in cv.sections %}
           {% assign section_title = section_pair[0] %}
