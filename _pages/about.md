@@ -6,7 +6,7 @@ subtitle: Marketing Graduate | Digital Marketing | Fashion Marketing | Branding 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Anjelo_Profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Melbourne, VIC</p>
