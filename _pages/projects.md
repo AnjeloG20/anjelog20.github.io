@@ -5,7 +5,6 @@ permalink: /projects/
 description: A selection of work across digital marketing, brand strategy, social media, and fashion-focused campaign concepts.
 nav: true
 nav_order: 3
-display_categories: [work]
 horizontal: false
 ---
 
