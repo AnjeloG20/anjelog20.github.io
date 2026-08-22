@@ -120,8 +120,29 @@
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
-        {% assign exp = cv.sections.Experience | default: empty_array %}
-        {% assign vol = cv.sections.Volunteer | default: empty_array %}
+          
+        {% if cv.sections.Experience %}
+          <a class="anchor" id="experience"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Experience</h3>
+            <div>
+              {% assign entries = cv.sections.Experience | al_cv_sort_by_date %}
+              {% include cv/experience.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% if cv.sections.Volunteer %}
+          <a class="anchor" id="volunteer"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Volunteer Experience</h3>
+            <div>
+              {% assign entries = cv.sections.Volunteer | al_cv_sort_by_date %}
+              {% include cv/experience.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
         {% assign combined_experience = exp | concat: vol | al_cv_sort_by_date %}
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
