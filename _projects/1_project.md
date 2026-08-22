@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: ZILIO
+description: Instagram Rebranding & Visual Storytelling
+img: assets/img/zilio1.jpeg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
+
+Developed a mock Instagram feed for ZILIO as part of my digital marketing internship, exploring how the brand could strengthen its visual storytelling across social media. Researched brand references, developed storytelling pillars, and created a visual direction combining fashion and technology.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
