@@ -2,7 +2,7 @@
 layout: page
 title: Nike SB - Academic Brand Concept
 description: Academic brand rebranding concept exploring campaign visuals and social media content for Nike SB.
-img: assets/img/portfolio/nikesb1.jpeg
+img: assets/img/nikesb1.jpeg
 importance: 3
 category: work
 ---
@@ -13,7 +13,7 @@ An academic brand concept exploring a refreshed campaign direction for **Nike SB
 
 The project focused on creating a visual direction for an event rebrand countdown, translating the concept across promotional and social media formats while maintaining a recognizable Nike SB aesthetic.
 
-{% include figure.liquid path="assets/img/portfolio/nikesb1.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB event rebrand promotional poster" %}
+{% include figure.liquid path="assets/img/nikesb1.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB event rebrand promotional poster" %}
 
 ## Campaign Concept
 
@@ -31,7 +31,7 @@ The designs use skate photography as the main visual element, with typography an
 
 The first poster introduces the **event rebrand countdown**, using a close-up skateboard image and large Nike SB branding. The second explores a more editorial approach, combining black-and-white photography with a restrained gradient treatment and motivational messaging.
 
-{% include figure.liquid path="assets/img/portfolio/nikesb2.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB Just Do It campaign poster concept" %}
+{% include figure.liquid path="assets/img/nikesb2.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB Just Do It campaign poster concept" %}
 
 Together, the pieces explore how the same campaign identity can adapt across different compositions while maintaining a consistent connection to skate culture.
 
@@ -39,7 +39,7 @@ Together, the pieces explore how the same campaign identity can adapt across dif
 
 The campaign was also adapted into an **Instagram promotional concept**, showing how the rebrand could extend beyond static posters into social media communication.
 
-{% include figure.liquid path="assets/img/portfolio/nikesb3.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB Instagram campaign concept" %}
+{% include figure.liquid path="assets/img/nikesb3.jpeg" class="img-fluid rounded z-depth-1" alt="Nike SB Instagram campaign concept" %}
 
 The Instagram execution carries over the campaign's skate imagery, motivational language, event countdown, and Nike SB branding while presenting them in a format designed specifically for digital audiences.
 
