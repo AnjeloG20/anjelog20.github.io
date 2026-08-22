@@ -16,8 +16,8 @@ cv:
       - company: ZILIO Apparel
         position: Digital Marketing Intern
         location: Melbourne, Australia
-        start_date: 2025-11
-        end_date: 2025-12
+        start_date: 2025-11-01
+        end_date: 2025-12-01
         summary: Digital Marketing & Instagram Brand Strategy
         highlights:
           - Collaborated with the CEO on the rebranding of the company's Instagram presence.
@@ -28,8 +28,8 @@ cv:
       - company: Thames International Business School
         position: Marketing Assistant
         location: Philippines
-        start_date: 2023-09
-        end_date: 2023-12
+        start_date: 2023-09-01
+        end_date: 2023-12-01
         summary: Marketing & Advertising
         highlights:
           - Assisted prospective students by providing information on academic programs and the admissions process.
@@ -42,8 +42,8 @@ cv:
         location: Melbourne, Australia
         area: Fashion Marketing (Branding and Communications)
         studyType: Bachelor's Degree
-        start_date: 2024-02
-        end_date: 2026-05
+        start_date: 2024-02-01
+        end_date: 2026-05-01
         highlights:
           - Collarts International Scholarship Recipient
           - "Academic Results: 8 Distinctions and 1 High Distinction"
@@ -52,8 +52,8 @@ cv:
         location: Philippines
         area: Business Administration and Marketing Management
         studyType: Advanced Diploma
-        start_date: 2021-09
-        end_date: 2023-12
+        start_date: 2021-09-01
+        end_date: 2023-12-01
         highlights:
           - Academic Excellence Awardee
           - Four-time Dean's List Recipient
@@ -62,8 +62,8 @@ cv:
       - company: Filipino Community Council of Victoria Inc.
         position: Community Engagement Volunteer
         location: Melbourne, Australia
-        start_date: 2024-09
-        end_date: 2025-05
+        start_date: 2024-09-01
+        end_date: 2025-05-01
         summary: Community Engagement & Event Coordination
           - Assisted with the planning and delivery of community events for international students, senior citizens, and local community members.
           - Supported food distribution initiatives by coordinating the collection and distribution of foodbank supplies to elderly residents.
@@ -100,10 +100,3 @@ cv:
           Creative Problem Solving,
           Customer & Stakeholder Engagement,
           Team Collaboration
-
-    Certificates:
-      - name: IELTS Academic
-        date: ""
-        issuer: IELTS
-        icon: fa-solid fa-certificate
-        summary: "Overall Band Score: 7.0"
