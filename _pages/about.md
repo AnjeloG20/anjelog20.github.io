@@ -25,21 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Reynald Anjelo Gutierrez**, a marketing graduate based in Melbourne with a background in **digital marketing, fashion marketing, branding, and social media**.
+Hi, I’m Reynald Anjelo Gutierrez, a marketing graduate based in Melbourne with a background in digital marketing, fashion marketing, branding, and social media.
 
-I recently completed my **Bachelor of Fashion Marketing (Branding and Communications)** at the Australian College of the Arts (Collarts), where I developed campaigns and concepts focused on brand storytelling, consumer engagement, and visual communication.
+I recently completed my Bachelor of Fashion Marketing (Branding and Communications) at the Australian College of the Arts (Collarts). Through my studies and my internship with ZILIO Apparel, I gained experience in brand strategy, social media, content planning, visual communication, and campaign development.
 
-During my internship with **ZILIO Apparel**, I contributed to the brand's digital marketing and Instagram rebranding. I worked on visual concepts, content layouts, mood boards, social media planning, and a mock Instagram feed designed around ZILIO's fashion and technology identity.
+I enjoy developing creative ideas that connect brands, people, and visual storytelling, with a particular interest in fashion and digital marketing.
 
-My portfolio also includes projects in **brand strategy, campaign development, retail concepts, visual merchandising, and content creation**.
-
-I'm currently looking for opportunities in **digital marketing, fashion marketing, branding, social media, and marketing communications**.
-
-## Featured Work
-
-Explore my projects to see selected work in:
-
-- **ZILIO Apparel** — Instagram Rebranding & Content Strategy
-- **LOOOP** — Sustainable Retail Brand Concept
-- **Nike SB** — Rebranding & Visual Campaign Concept
-- **Collarts** — Promotional Pamphlet Concept
+I’m currently seeking opportunities in digital marketing, fashion marketing, branding, social media, and marketing communications.
