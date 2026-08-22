@@ -16,7 +16,6 @@ related_publications: false
   The project explored ZILIO's audience, brand tone, content pillars, and Instagram strategy before translating those insights into a more cohesive visual identity.
 </p>
 
-<hr class="my-5">
 
 ## Project Overview
 
@@ -30,7 +29,6 @@ related_publications: false
   Visual direction developed for ZILIO's Instagram presence.
 </div>
 
-<hr class="my-5">
 
 ## Understanding the Brand
 
@@ -52,7 +50,6 @@ The brand sits between **fashion and technology**, aiming to improve how custome
   Defining the brand's purpose and the audience the content needed to speak to.
 </div>
 
-<hr class="my-5">
 
 ## Why Instagram?
 
@@ -64,7 +61,6 @@ Instagram was chosen as the primary platform because it allowed the brand to com
   </div>
 </div>
 
-<hr class="my-5">
 
 ## Content Pillars
 
@@ -82,7 +78,6 @@ I developed four recurring content pillars to give the feed a consistent structu
   These pillars helped define what the brand should talk about — from virtual try-on technology and sizing education to fashion inspiration, runway content, and community-led storytelling.
 </p>
 
-<hr class="my-5">
 
 ## Building the Visual Direction
 
@@ -102,7 +97,6 @@ The brand tone was designed around a contrast between **polished and raw**, with
   Exploring tone, colour, fashion imagery, and the balance between technology and lifestyle.
 </div>
 
-<hr class="my-5">
 
 ## Tone of Voice
 
@@ -116,7 +110,6 @@ I explored short captions built around themes of **precision, confidence, indivi
   </div>
 </div>
 
-<hr class="my-5">
 
 ## Translating the Strategy Into a Feed
 
@@ -138,7 +131,6 @@ Rather than making each post look identical, the goal was to create visual rhyth
   Mock feed showing how Tech, Fashion, Style, and Culture could cycle throughout the Instagram grid.
 </div>
 
-<hr class="my-5">
 
 ## Reel Concepts
 
@@ -152,7 +144,6 @@ Each Reel concept was designed around the same four pillars, creating opportunit
   </div>
 </div>
 
-<hr class="my-5">
 
 ## Audience Personas
 
@@ -176,7 +167,6 @@ To make the content direction more specific, I developed audience personas repre
   Three audience profiles exploring differences in lifestyle, values, Instagram behaviour, motivations, and pain points.
 </div>
 
-<hr class="my-5">
 
 ## Recommended Rollout
 
@@ -194,7 +184,6 @@ Stage one focused on improving the existing profile's appearance, descriptions, 
   </div>
 </div>
 
-<hr class="my-5">
 
 ## Project Takeaways
 
