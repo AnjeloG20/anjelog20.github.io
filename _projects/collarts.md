@@ -2,7 +2,7 @@
 layout: page
 title: Collarts
 description: Promotional Pamphlet Concept
-img: assets/img/collartsphamplet1_banner.jpeg
+img: assets/img/collartsphamplet1_banner.jpg
 importance: 4
 category: work
 ---
@@ -19,10 +19,10 @@ The visual hierarchy gives prominence to Collarts' identity while guiding reader
 
 <div class="row">
   <div class="col-sm-6">
-    {% include figure.liquid loading="lazy" path="assets/img/collartsphamplet1.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="lazy" path="assets/img/collartsphamplet1.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6">
-    {% include figure.liquid loading="lazy" path="assets/img/collartsphamplet2.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="lazy" path="assets/img/collartsphamplet2.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
