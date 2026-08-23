@@ -11,8 +11,6 @@ category: work
 
 An academic promotional design project developed for **Collarts (Australian College of the Arts)**, focused on presenting the college, its programs, campuses, and industry opportunities through a clear and visually engaging pamphlet.
 
-{% include figure.liquid loading="eager" path="assets/img/collartsphamplet1_banner.jpeg" class="img-fluid rounded z-depth-1" %}
-
 ## Design Concept
 
 The pamphlet uses a bold **black-and-white visual identity** supported by circular imagery and colourful geometric accents. The layout was designed to organise a large amount of institutional information while maintaining a creative look appropriate for an arts-focused college.
